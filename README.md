@@ -14,6 +14,14 @@ Building modern web applications with a focus on clean architecture, performance
 
 ---
 
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grabator&theme=github-compact&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
 ## Tech Stack
 
 ### Core Development
@@ -26,12 +34,4 @@ Building modern web applications with a focus on clean architecture, performance
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,azure,docker,jenkins,githubactions,git,github,gitlab,bitbucket,linux,windows,bash,kali,vscode,visualstudio,eclipse,postman,figma&theme=light" />
-</p>
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grabator&theme=github-compact&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="Activity Graph"/>
 </p>
