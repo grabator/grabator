@@ -16,8 +16,16 @@ Building modern web applications with a focus on clean architecture, performance
 
 ## Tech Stack
 
+### Core Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,nodejs,java,spring,mysql,postgres,mongodb,docker,git,github,linux,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,angular,react,nodejs,java,spring,cs,cpp,flutter,dart,python&theme=light" />
+</p>
+
+### Tools & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,azure,docker,jenkins,githubactions,git,github,gitlab,bitbucket,linux,windows,bash,kali,vscode,visualstudio,eclipse,postman,figma&theme=light" />
 </p>
 
 ---
