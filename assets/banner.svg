@@ -1,79 +1,177 @@
-<svg width="1600" height="440" viewBox="0 0 1600 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
-  <title id="title">Ahmed Grabus — Software Engineer</title>
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="naslov">
+  <title id="naslov">Ahmed Grabus (GRABA) - Software Engineer</title>
   <defs>
-    <radialGradient id="sjaj1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1260 90) rotate(90) scale(520 720)">
-      <stop stop-color="#7c3aed" stop-opacity="0.42"/>
-      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    <style>
+      @font-face { font-family: "SG"; font-weight: 700; src: url(data:font/woff2;base64,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) format("woff2"); }
+      @font-face { font-family: "SG"; font-weight: 500; src: url(data:font/woff2;base64,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) format("woff2"); }
+      @font-face { font-family: "UB"; font-weight: 800; src: url(data:font/woff2;base64,d09GMgABAAAAAAR8ABAAAAAACMAAAAQiAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbgUQcVAZgP1NUQVQqAEwRCAqEZIQKCxAAATYCJAMcBCAFhGoHIAwHG0IHyAQe6DurV10VeHlg7xA9YjJGshDwdwT6/793+v8PJI8mJdgJ/Y99e+1lnWhuWmRt2jQ2FQ4OKVLoIZsyIxOj+TsXAbhRJE30C5QsWQFE+ztO4shGlpbXttJl4PQJo+gyqv+kMXRBDef/GxkjB08Ygz1lfEOFAzsiqQF2GWrR2cNox4J1GrzM3O/juM2fTOxPt/lLjv/rfQfGIOkD0hIiDipkHSyGpMkK2a2Ob2KuasKo4UMVGtIIQFwBrAv6BBLiMlnqUhJthRaSzDXxfNEHQ4Rw4vvQPgDLwJqv3l8PpffQaZafmC64qr4Xj4HY+sKLoBVo33Nu9A3ozYLQJax/BG3q0GGThLo2rYRdUn9eQZAoJNFBRfZ1aboPaegEqKDZNJc1+/Ma8zPznnnLvLAM52QLhGniY2ALkVfCrrmFF4GUiTRXBGSl3bB36Rppu19F2vq6lHOqqh7hwa1dCwoffYY7R7iGOUdOTH4NDjDv1Ved3p49fCuzc4PaPSvvivl3nG4hxYPdZ77KlM4VryvF/De+6lr52mttzj3Pv+5c8eqrzHvtNdfKN94IbxUezdnD39Oz8gUx/3mnO6icFs/K2aflDnoGu+fILCj+7sPvPxRB2rrvPn/i837C3x4+XnJDuzFgSMN3f/mWFXVY9mf9d9SPjm0V41Oy2nILMvuNzWzJy56XPSpq2KR+7SlxbQNy1/lDw0dGXwnv9nZC0g7P45sffygQVhocbmSTPr5U8yfP6NlvZWaf0HZj8oDA+n79AuunDdhj9Jp7pWbsYl/71/PWtDyQXtwrPjVYWprZc0hieemw8KKylg97H9i08mC38BN8dNyaYIuKsiVEDxt54avvnw4uLKgaXV1ZNWZhfjB2YA8p+rhIH7+K+tPK9dvWWg6/DRS7c3Fy97lty/v68n+zS/llU+KDojWL4p0f9gpv+v/S/5dtfdW7ANY3gZnAvtlrbVP+v/RvyNb3DaOdR21yEH75kmnKuSTIpwmXffHzM9A5g8y3sRcbjd9ei4PUtyzPedPtyiGHz4jCXC+IEg/oNbzCqZfk8mK36tdbaGeG3koUrTovmTyWJxRuOoHkkj6FMqYxiQn0J8BYRjGIIIMZzlCGMckvn8Q4JpJLsrRrIgOZwHDGMYmXkkwSXh9FEmOZwFCSaaCcWtoYwwDGMpkxDGIwDErcAm+HCZOfHcsYdFJJIosUUsljKEOYxNGo8on0JIUkcljKIJuk5bKnkEE8QxdON8ghixzo7b3AYtTjp568o+DN2w1lMqPozwS8MT27hLGMYzodLFm/rGOQgoGBTivDGIy+jNQI2WMZwWAGTgj6mUw1TeLwiejE0B4cyvDeQ5MZQBIDGcvoFpogaagcHMwQEumnAsnbdNgOYv+plDrK3IWBk3lNmIvPqdU=) format("woff2"); }
+      @font-face { font-family: "JB"; font-weight: 400; src: url(data:font/woff2;base64,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) format("woff2"); }
+      @font-face { font-family: "JB"; font-weight: 700; src: url(data:font/woff2;base64,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) format("woff2"); }
+
+      .sans { font-family: "SG", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+      .mono { font-family: "JB", ui-monospace, Consolas, Menlo, monospace; }
+      .ime { font-weight: 700; font-size: 84px; letter-spacing: -2px; }
+      .uloga { font-weight: 500; font-size: 24px; fill: #b8b1c9; }
+      .oznaka { font-weight: 500; font-size: 14px; letter-spacing: 2.4px; fill: #c4b5fd; }
+      .lokacija { font-size: 15px; fill: #6f6684; }
+      .komanda { font-size: 19px; fill: #ece8f5; }
+      .izlaz { font-size: 19px; fill: #9d93b3; }
+      .dolar { font-weight: 700; fill: #8b5cf6; }
+      .naglasak { fill: #c4b5fd; }
+      .graba { font-family: "UB", "Arial Black", sans-serif; font-weight: 800; font-size: 170px; letter-spacing: 18px; }
+      .graba-obris { stroke: url(#grabaPotez); stroke-width: 2; stroke-dasharray: 3000; stroke-dashoffset: 0; fill: none; }
+
+      .uvod { animation: uvod 0.9s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+      .sjaj { animation: pojava 1.6s ease-out both; }
+      .graba-obris { animation: crtaj 2.6s cubic-bezier(0.6, 0, 0.3, 1) 0.4s both; }
+      .graba-ispuna { animation: pojava 1.4s ease-out 2.2s both; }
+      .pod { animation: pojava 1.8s ease-out 0.2s both; }
+      .zraka { animation: zraka 2.6s cubic-bezier(0.5, 0, 0.3, 1) 0.3s both; }
+      .pokrivac { animation-name: otkrij; animation-fill-mode: both; }
+      .kursor-grupa { animation: pojava 0.01s linear 3.6s both; }
+      .kursor { animation: treperi 1.1s steps(1) 3.6s infinite; }
+
+      @keyframes uvod { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+      @keyframes pojava { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes crtaj { from { stroke-dashoffset: 3000; } to { stroke-dashoffset: 0; } }
+      @keyframes otkrij { from { transform: translateX(0); } to { transform: translateX(var(--pomak)); } }
+      @keyframes treperi { 0% { opacity: 1; } 50% { opacity: 0; } }
+      @keyframes zraka { from { transform: translateX(-500px) skewX(-18deg); opacity: 0; } 15% { opacity: 1; } 85% { opacity: 1; } to { transform: translateX(2100px) skewX(-18deg); opacity: 0; } }
+
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; }
+        .pokrivac, .zraka { display: none; }
+      }
+    </style>
+
+    <clipPath id="okvir"><rect width="1600" height="560" rx="24"/></clipPath>
+    <clipPath id="unutrasnjost"><rect x="961" y="89" width="548" height="198"/></clipPath>
+
+    <radialGradient id="sjaj1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1250 40) rotate(90) scale(460 760)">
+      <stop stop-color="#7c3aed" stop-opacity="0.45"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="sjaj2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 460) rotate(90) scale(360 620)">
-      <stop stop-color="#4c1d95" stop-opacity="0.5"/>
-      <stop offset="1" stop-color="#4c1d95" stop-opacity="0"/>
+    <radialGradient id="sjaj2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 440) rotate(90) scale(170 900)">
+      <stop stop-color="#6d28d9" stop-opacity="0.55"/><stop offset="1" stop-color="#6d28d9" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="ime" x1="90" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#c4b5fd"/>
+    <radialGradient id="sjaj3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 120) rotate(90) scale(300 520)">
+      <stop stop-color="#4c1d95" stop-opacity="0.35"/><stop offset="1" stop-color="#4c1d95" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="ime" x1="88" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/><stop offset="1" stop-color="#c4b5fd"/>
     </linearGradient>
-    <linearGradient id="linija" x1="90" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8b5cf6"/>
-      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    <linearGradient id="akcent" x1="92" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="okvir" x1="930" y1="80" x2="1510" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8b5cf6" stop-opacity="0.55"/>
-      <stop offset="0.5" stop-color="#8b5cf6" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0.35"/>
+    <linearGradient id="okvirTerminala" x1="960" y1="48" x2="1510" y2="288" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a78bfa" stop-opacity="0.6"/><stop offset="0.5" stop-color="#8b5cf6" stop-opacity="0.12"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0.4"/>
     </linearGradient>
+    <linearGradient id="grabaPotez" x1="0" y1="310" x2="0" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e9d5ff"/><stop offset="0.55" stop-color="#a78bfa"/><stop offset="1" stop-color="#6d28d9"/>
+    </linearGradient>
+    <linearGradient id="grabaIspuna" x1="0" y1="310" x2="0" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8b5cf6" stop-opacity="0.38"/><stop offset="1" stop-color="#2e1065" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="horizont" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a78bfa" stop-opacity="0"/><stop offset="0.5" stop-color="#c4b5fd"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="zrakaGrad" x1="0" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c4b5fd" stop-opacity="0"/><stop offset="0.5" stop-color="#c4b5fd" stop-opacity="0.09"/><stop offset="1" stop-color="#c4b5fd" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="podBlijedi" x1="0" y1="440" x2="0" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity="0"/><stop offset="0.25" stop-color="#fff" stop-opacity="0.55"/><stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="podMaska"><rect y="440" width="1600" height="120" fill="url(#podBlijedi)"/></mask>
+    <linearGradient id="odrazBlijedi" x1="0" y1="440" x2="0" y2="530" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity="0.45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="odrazMaska"><rect y="440" width="1600" height="120" fill="url(#odrazBlijedi)"/></mask>
+    <radialGradient id="mrezaBlijedi" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 160) rotate(90) scale(300 900)">
+      <stop stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="mrezaMaska"><rect width="1600" height="440" fill="url(#mrezaBlijedi)"/></mask>
     <pattern id="mreza" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" stroke="#ffffff" stroke-opacity="0.045"/>
     </pattern>
-    <radialGradient id="blijedi" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 180) rotate(90) scale(420 900)">
-      <stop stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-    </radialGradient>
-    <mask id="maska">
-      <rect width="1600" height="440" fill="url(#blijedi)"/>
-    </mask>
+    <filter id="zamuti" x="-10%" y="-400%" width="120%" height="900%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
   </defs>
 
-  <rect width="1600" height="440" rx="24" fill="#07050b"/>
-  <rect width="1600" height="440" rx="24" fill="url(#sjaj1)"/>
-  <rect width="1600" height="440" rx="24" fill="url(#sjaj2)"/>
-  <rect width="1600" height="440" fill="url(#mreza)" mask="url(#maska)"/>
+  <g clip-path="url(#okvir)">
+    <rect width="1600" height="560" fill="#050308"/>
+    <g class="sjaj">
+      <rect width="1600" height="560" fill="url(#sjaj1)"/>
+      <rect width="1600" height="560" fill="url(#sjaj3)"/>
+      <rect width="1600" height="560" fill="url(#sjaj2)"/>
+    </g>
+    <rect width="1600" height="440" fill="url(#mreza)" mask="url(#mrezaMaska)"/>
 
-  <!-- Lijeva strana -->
-  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
-    <rect x="90" y="86" width="296" height="36" rx="18" fill="#8b5cf6" fill-opacity="0.1" stroke="#8b5cf6" stroke-opacity="0.35"/>
-    <circle cx="112" cy="104" r="5" fill="#a78bfa">
-      <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
-    </circle>
-    <text x="126" y="110" font-size="15" font-weight="600" letter-spacing="2" fill="#c4b5fd">SOFTWARE ENGINEER @ ZIRA</text>
+    <!-- Pod -->
+    <g class="pod" mask="url(#podMaska)" stroke="#8b5cf6" stroke-opacity="0.55">
+      <line x1="800" y1="440" x2="-960" y2="560"/><line x1="800" y1="440" x2="-850" y2="560"/><line x1="800" y1="440" x2="-740" y2="560"/><line x1="800" y1="440" x2="-630" y2="560"/><line x1="800" y1="440" x2="-520" y2="560"/><line x1="800" y1="440" x2="-410" y2="560"/><line x1="800" y1="440" x2="-300" y2="560"/><line x1="800" y1="440" x2="-190" y2="560"/><line x1="800" y1="440" x2="-80" y2="560"/><line x1="800" y1="440" x2="30" y2="560"/><line x1="800" y1="440" x2="140" y2="560"/><line x1="800" y1="440" x2="250" y2="560"/><line x1="800" y1="440" x2="360" y2="560"/><line x1="800" y1="440" x2="470" y2="560"/><line x1="800" y1="440" x2="580" y2="560"/><line x1="800" y1="440" x2="690" y2="560"/><line x1="800" y1="440" x2="800" y2="560"/><line x1="800" y1="440" x2="910" y2="560"/><line x1="800" y1="440" x2="1020" y2="560"/><line x1="800" y1="440" x2="1130" y2="560"/><line x1="800" y1="440" x2="1240" y2="560"/><line x1="800" y1="440" x2="1350" y2="560"/><line x1="800" y1="440" x2="1460" y2="560"/><line x1="800" y1="440" x2="1570" y2="560"/><line x1="800" y1="440" x2="1680" y2="560"/><line x1="800" y1="440" x2="1790" y2="560"/><line x1="800" y1="440" x2="1900" y2="560"/><line x1="800" y1="440" x2="2010" y2="560"/><line x1="800" y1="440" x2="2120" y2="560"/><line x1="800" y1="440" x2="2230" y2="560"/><line x1="800" y1="440" x2="2340" y2="560"/><line x1="800" y1="440" x2="2450" y2="560"/><line x1="800" y1="440" x2="2560" y2="560"/>
+      <line x1="0" y1="444" x2="1600" y2="444"/><line x1="0" y1="450" x2="1600" y2="450"/><line x1="0" y1="458" x2="1600" y2="458"/><line x1="0" y1="469" x2="1600" y2="469"/><line x1="0" y1="483" x2="1600" y2="483"/><line x1="0" y1="501" x2="1600" y2="501"/><line x1="0" y1="524" x2="1600" y2="524"/><line x1="0" y1="553" x2="1600" y2="553"/>
+    </g>
 
-    <text x="86" y="222" font-size="86" font-weight="700" letter-spacing="-2" fill="url(#ime)">Ahmed Grabus</text>
-    <text x="92" y="278" font-size="25" fill="#b8b1c9">Full-stack · .NET · Angular · Flutter · Next.js</text>
+    <!-- Horizont -->
+    <rect y="438.5" width="1600" height="3" fill="url(#horizont)" filter="url(#zamuti)" class="pod"/>
+    <rect y="439.5" width="1600" height="1" fill="url(#horizont)" class="pod"/>
 
-    <rect x="92" y="312" width="470" height="2" fill="url(#linija)"/>
+    <!-- GRABA -->
+    <g mask="url(#odrazMaska)">
+      <text x="800" y="440" text-anchor="middle" class="graba graba-ispuna" fill="url(#grabaIspuna)" transform="translate(0 880) scale(1 -1)">GRABA</text>
+    </g>
+    <text x="800" y="440" text-anchor="middle" class="graba graba-ispuna" fill="url(#grabaIspuna)">GRABA</text>
+    <text x="800" y="440" text-anchor="middle" class="graba graba-obris">GRABA</text>
 
-    <text x="92" y="358" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="17" fill="#6f6684">Bosnia and Herzegovina · github.com/grabator</text>
-  </g>
+    <rect class="zraka" x="0" y="0" width="260" height="560" fill="url(#zrakaGrad)"/>
 
-  <!-- Terminal -->
-  <g font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace">
-    <rect x="930" y="80" width="580" height="280" rx="18" fill="#0d0916" fill-opacity="0.92"/>
-    <rect x="930.5" y="80.5" width="579" height="279" rx="17.5" stroke="url(#okvir)"/>
-    <path d="M930 124H1510" stroke="#8b5cf6" stroke-opacity="0.18"/>
-    <circle cx="958" cy="102" r="6" fill="#8b5cf6" fill-opacity="0.9"/>
-    <circle cx="980" cy="102" r="6" fill="#8b5cf6" fill-opacity="0.45"/>
-    <circle cx="1002" cy="102" r="6" fill="#8b5cf6" fill-opacity="0.2"/>
-    <text x="1220" y="107" font-size="14" fill="#6f6684" text-anchor="middle">~/grabator</text>
+    <!-- Lijeva strana -->
+    <g class="sans">
+      <g class="uvod" style="animation-delay:0.1s">
+        <rect x="90" y="60" width="304" height="36" rx="18" fill="#8b5cf6" fill-opacity="0.1" stroke="#8b5cf6" stroke-opacity="0.38"/>
+        <circle cx="112" cy="78" r="5" fill="#a78bfa"/>
+        <text x="126" y="83" class="oznaka">SOFTWARE ENGINEER @ ZIRA</text>
+      </g>
+      <text x="86" y="180" class="ime uvod" fill="url(#ime)" style="animation-delay:0.2s">Ahmed Grabus</text>
+      <text x="92" y="228" class="uloga uvod" style="animation-delay:0.35s">Full-stack · .NET · Angular · Flutter · Next.js</text>
+      <rect x="92" y="254" width="470" height="2" fill="url(#akcent)" class="uvod" style="animation-delay:0.5s"/>
+      <text x="92" y="290" class="mono lokacija uvod" style="animation-delay:0.6s">Bosnia and Herzegovina · github.com/grabator</text>
+    </g>
 
-    <text x="962" y="170" font-size="20"><tspan fill="#8b5cf6">$</tspan><tspan fill="#ece8f5"> whoami</tspan></text>
-    <text x="962" y="204" font-size="20" fill="#9d93b3">ahmed grabus — software engineer</text>
+    <!-- Terminal -->
+    <g class="mono uvod" style="animation-delay:0.3s">
+      <rect x="960" y="48" width="550" height="240" rx="16" fill="#0c0814"/>
+      <rect x="960.5" y="48.5" width="549" height="239" rx="15.5" stroke="url(#okvirTerminala)"/>
+      <path d="M960 88H1510" stroke="#8b5cf6" stroke-opacity="0.18"/>
+      <circle cx="986" cy="68" r="5.5" fill="#8b5cf6"/>
+      <circle cx="1006" cy="68" r="5.5" fill="#8b5cf6" fill-opacity="0.45"/>
+      <circle cx="1026" cy="68" r="5.5" fill="#8b5cf6" fill-opacity="0.2"/>
+      <text x="1235" y="73" text-anchor="middle" class="lokacija" style="font-size:13px">~/grabator</text>
 
-    <text x="962" y="252" font-size="20"><tspan fill="#8b5cf6">$</tspan><tspan fill="#ece8f5"> cat focus.txt</tspan></text>
-    <text x="962" y="286" font-size="20" fill="#9d93b3">clean architecture · performance · ux</text>
+      <text x="990" y="128" class="komanda"><tspan class="dolar">$</tspan> whoami</text>
+    <text x="990" y="158" class="izlaz"><tspan class="naglasak">graba</tspan> - ahmed grabus</text>
+    <text x="990" y="198" class="komanda"><tspan class="dolar">$</tspan> cat focus.txt</text>
+    <text x="990" y="228" class="izlaz">clean architecture · performance · ux</text>
+      <text x="990" y="268" class="komanda"><tspan class="dolar">$</tspan></text>
 
-    <text x="962" y="334" font-size="20" fill="#8b5cf6">$</text>
-    <rect x="982" y="318" width="11" height="21" rx="1.5" fill="#a78bfa">
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
-    </rect>
+      <g clip-path="url(#unutrasnjost)">
+        <rect class="pokrivac" x="986" y="110" width="560" height="26" fill="#0c0814" style="--pomak:102px;animation-delay:0.9s;animation-duration:0.5s;animation-timing-function:steps(8)"/>
+      <rect class="pokrivac" x="986" y="140" width="560" height="26" fill="#0c0814" style="--pomak:238px;animation-delay:1.55s;animation-duration:0.35s;animation-timing-function:steps(20)"/>
+      <rect class="pokrivac" x="986" y="180" width="560" height="26" fill="#0c0814" style="--pomak:181px;animation-delay:2.15s;animation-duration:0.7s;animation-timing-function:steps(15)"/>
+      <rect class="pokrivac" x="986" y="210" width="560" height="26" fill="#0c0814" style="--pomak:432px;animation-delay:3s;animation-duration:0.45s;animation-timing-function:steps(37)"/>
+        <rect class="pokrivac" x="986" y="250" width="560" height="26" fill="#0c0814" style="--pomak:20px;animation-delay:3.5500000000000003s;animation-duration:0.01s"/>
+      </g>
+      <g class="kursor-grupa">
+        <rect class="kursor" x="1010" y="252" width="10" height="20" rx="1.5" fill="#a78bfa"/>
+      </g>
+    </g>
+
+    <!-- AG -->
+    <g opacity="0.22" transform="translate(1528 516)">
+      <rect width="34" height="26" rx="6" stroke="#a78bfa"/>
+      <text x="17" y="18" text-anchor="middle" font-family="UB, sans-serif" font-weight="800" font-size="11" fill="#c4b5fd" letter-spacing="0.5">AG</text>
+    </g>
   </g>
 </svg>
