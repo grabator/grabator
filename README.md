@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Ahmed Grabus — Software Engineer" width="100%">
+  <img src="./assets/banner.svg" alt="Ahmed Grabus - Software Engineer" width="100%">
 </p>
 
 ## About
 
 Software Engineer at **ZIRA**, based in Bosnia and Herzegovina.
-I build full-stack products end to end — .NET backends, Angular and Next.js frontends, Flutter mobile apps — with a focus on clean architecture, performance and user experience.
+I build full-stack products end to end - .NET backends, Angular and Next.js frontends, Flutter mobile apps - with a focus on clean architecture, performance and user experience.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -16,13 +16,13 @@ Fantasy Premier League companion with ML-driven recommendations for predicted po
 
 `.NET 10` `RabbitMQ` `ONNX Runtime` `SQL Server` `Stripe` `Flutter` `Docker`
 
-### [Exclusive Lounge — Reservations](https://github.com/grabator/exclusive-lounge-caffe-rezervacije)
+### [Exclusive Lounge Reservations](https://github.com/grabator/exclusive-lounge-caffe-rezervacije)
 Table reservation platform for a café lounge with an interactive floor plan, admin panel and Telegram / WhatsApp / Viber integration.
 
 `Angular` `TypeScript` `.NET` `SCSS` `Docker`
 
 ### [Dežurne apoteke BiH](https://github.com/grabator/dezurne-apoteke)
-Mobile-first web app that shows which pharmacies are on duty right now in Bosnia and Herzegovina — with distance, one-tap calling and directions.
+Mobile-first web app that shows which pharmacies are on duty right now in Bosnia and Herzegovina - with distance, one-tap calling and directions.
 
 `Next.js 16` `React 19` `PWA`
 
