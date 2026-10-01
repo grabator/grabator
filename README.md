@@ -11,6 +11,11 @@ I build full-stack products end to end - .NET backends, Angular and Next.js fron
 
 ## Featured projects
 
+### [MyShishapedia](https://myshishapedia.com)
+Bilingual (Bosnian / English) hookah flavor encyclopedia with ingredient breakdowns, flavor profiles, side-by-side comparisons, mix recipes, a mixer and a quiz. Built without frameworks: a custom static site generator prerenders 190+ pages, with fuzzy search, shareable story cards and a strict CSP. Live on Cloudflare Pages · [myshishapedia.com](https://myshishapedia.com) · [source](https://github.com/grabator/myshishapedia)
+
+`JavaScript` `HTML` `CSS` `Node.js` `SVG` `Cloudflare Pages`
+
 ### [GrabPoints](https://github.com/grabator/IB210176-seminarski-rs2)
 Fantasy Premier League companion with ML-driven recommendations for predicted points, captain picks and transfers. Microservice architecture with a .NET 10 API and a background worker over RabbitMQ, plus a Flutter mobile app and desktop admin.
 
