@@ -16,6 +16,32 @@ Bilingual (Bosnian / English) hookah flavor encyclopedia with ingredient breakdo
 
 `JavaScript` `HTML` `CSS` `Node.js` `SVG` `Cloudflare Pages`
 
+### Websites for local businesses
+Fast, mobile-first websites with no frameworks and no build step: everything is drawn in SVG, every page works in several languages, and inquiries go straight to the owner's Viber or WhatsApp.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://planinka.grabafaceit.workers.dev/"><img src="./assets/projects/planinka.jpg" alt="Planinka website" width="100%"></a>
+      <br><strong><a href="https://planinka.grabafaceit.workers.dev/">Planinka</a></strong>
+      <br><sub>Mountain cabin on Vlašić: seasonal prices with a stay calculator, live weather, gallery and booking inquiries. BS · EN · DE.</sub>
+      <br><sub><a href="https://github.com/grabator/planinka">source</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/grabator/svecana-sala"><img src="./assets/projects/svecana-sala.jpg" alt="Wedding venue website" width="100%"></a>
+      <br><strong><a href="https://github.com/grabator/svecana-sala">Svečana sala</a></strong>
+      <br><sub>Wedding venue demo: availability calendar synced from Google Calendar through a Cloudflare Worker, instant price estimate, viewing booking and a guest page with QR code. 4 languages.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/grabator/old-bridge-mostar"><img src="./assets/projects/old-bridge-mostar.jpg" alt="Old Bridge Mostar website" width="100%"></a>
+      <br><strong><a href="https://github.com/grabator/old-bridge-mostar">Old Bridge Mostar</a></strong>
+      <br><sub>Cinematic scroll story: layered SVG scenes of the Old Bridge and the Neretva, a diver leaping from the arch and an endless places slider.</sub>
+    </td>
+  </tr>
+</table>
+
+`JavaScript` `HTML` `CSS` `SVG` `Cloudflare Workers`
+
 ### [GrabPoints](https://github.com/grabator/IB210176-seminarski-rs2)
 Fantasy Premier League companion with ML-driven recommendations for predicted points, captain picks and transfers. Microservice architecture with a .NET 10 API and a background worker over RabbitMQ, plus a Flutter mobile app and desktop admin.
 
