@@ -20,6 +20,13 @@ My personal site, built by hand with no frameworks. A little robot drawn in pure
 
 `JavaScript` `HTML` `CSS` `Cloudflare Workers`
 
+### [Glaze Nail Studio](https://beauty-salon.grabafaceit.workers.dev)
+<a href="https://beauty-salon.grabafaceit.workers.dev"><img src="./assets/projects/beauty-salon.jpg" alt="Glaze Nail Studio website" width="100%"></a>
+
+Website for a nail salon. Visitors try a polish colour, shape, length and style on a realistic hand drawn in SVG, browse a design gallery filtered by style and season, get shade suggestions that match an outfit photo, and send a booking inquiry to Viber or WhatsApp in three steps. Three languages (BS / EN / DE), installable as an app, smooth on low-end phones and accessible · [live](https://beauty-salon.grabafaceit.workers.dev) · [source](https://github.com/grabator/beauty-salon)
+
+`JavaScript` `HTML` `CSS` `SVG` `PWA` `Cloudflare Workers`
+
 ### [MyShishapedia](https://myshishapedia.com)
 Bilingual (Bosnian / English) hookah flavor encyclopedia with ingredient breakdowns, flavor profiles, side-by-side comparisons, mix recipes, a mixer and a quiz. Built without frameworks: a custom static site generator prerenders 190+ pages, with fuzzy search, shareable story cards and a strict CSP. Live on Cloudflare Pages · [myshishapedia.com](https://myshishapedia.com) · [source](https://github.com/grabator/myshishapedia)
 
