@@ -13,12 +13,12 @@ I build full-stack products end to end - .NET backends, Angular and Next.js fron
 
 ## Featured projects
 
-### [Portfolio](https://graba-portofolio.grabafaceit.workers.dev)
-<a href="https://graba-portofolio.grabafaceit.workers.dev"><img src="./assets/projects/portfolio.jpg" alt="Graba portfolio" width="100%"></a>
+### [MyShishapedia](https://myshishapedia.com)
+<a href="https://myshishapedia.com"><img src="./assets/projects/myshishapedia.jpg" alt="MyShishapedia, the hookah flavor encyclopedia" width="100%"></a>
 
-My personal site, built by hand with no frameworks. A little robot drawn in pure CSS turns its head in 3D to follow the cursor, blinks, falls asleep when you leave it alone and knows a few tricks when you click it. Bilingual (English / Bosnian), fast and accessible · [live](https://graba-portofolio.grabafaceit.workers.dev) · [source](https://github.com/grabator/graba-portofolio)
+The hookah flavor encyclopedia, in English and Bosnian. For every flavor you see what it is actually made of, how strongly you taste each ingredient and which flavors are similar. 87 flavors from 20 brands, mix recipes with bowl layouts, a mixer, a quiz, head to head comparisons, ratings and a personal shelf with recommendations, all built from community feedback. No frameworks: a custom static site generator prerenders 740+ pages, with fuzzy search, shareable story cards and a strict CSP · [myshishapedia.com](https://myshishapedia.com) · [source](https://github.com/grabator/myshishapedia)
 
-`JavaScript` `HTML` `CSS` `Cloudflare Workers`
+`JavaScript` `HTML` `CSS` `Node.js` `SVG` `Cloudflare Pages`
 
 ### [Glaze Nail Studio](https://beauty-salon.grabafaceit.workers.dev)
 <a href="https://beauty-salon.grabafaceit.workers.dev"><img src="./assets/projects/beauty-salon.jpg" alt="Glaze Nail Studio website" width="100%"></a>
@@ -27,10 +27,12 @@ Website for a nail salon. Visitors try a polish colour, shape, length and style 
 
 `JavaScript` `HTML` `CSS` `SVG` `PWA` `Cloudflare Workers`
 
-### [MyShishapedia](https://myshishapedia.com)
-Bilingual (Bosnian / English) hookah flavor encyclopedia with ingredient breakdowns, flavor profiles, side-by-side comparisons, mix recipes, a mixer and a quiz. Built without frameworks: a custom static site generator prerenders 190+ pages, with fuzzy search, shareable story cards and a strict CSP. Live on Cloudflare Pages · [myshishapedia.com](https://myshishapedia.com) · [source](https://github.com/grabator/myshishapedia)
+### [Portfolio](https://graba-portofolio.grabafaceit.workers.dev)
+<a href="https://graba-portofolio.grabafaceit.workers.dev"><img src="./assets/projects/portfolio.jpg" alt="Graba portfolio" width="100%"></a>
 
-`JavaScript` `HTML` `CSS` `Node.js` `SVG` `Cloudflare Pages`
+My personal site, built by hand with no frameworks. A little robot drawn in pure CSS turns its head in 3D to follow the cursor, blinks, falls asleep when you leave it alone and knows a few tricks when you click it. Bilingual (English / Bosnian), fast and accessible · [live](https://graba-portofolio.grabafaceit.workers.dev) · [source](https://github.com/grabator/graba-portofolio)
+
+`JavaScript` `HTML` `CSS` `Cloudflare Workers`
 
 ### Websites and apps for local businesses
 Fast, mobile-first work for real places: no heavy frameworks where they are not needed, several languages, and inquiries that go straight to the owner.
