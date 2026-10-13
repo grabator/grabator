@@ -20,6 +20,13 @@ The hookah flavor encyclopedia, in English and Bosnian. For every flavor you see
 
 `JavaScript` `HTML` `CSS` `Node.js` `SVG` `Cloudflare Pages`
 
+### [SquadJury](https://squadjury.com)
+<a href="https://squadjury.com"><img src="./assets/projects/squadjury.jpg" alt="SquadJury, the FPL jury" width="100%"></a>
+
+Fantasy Premier League managers post their squad with one screenshot and the community rates it from 1 to 10 before the deadline. The squad is read right in the browser (OCR, no typing), jurors judge one squad at a time or in head to head duels with Elo ratings, and after each gameweek the jury's verdict meets the real FPL points. Private leagues with H2H fixtures, scout points for the best predictions, badges, share images and an embed widget for creators. Full stack on Cloudflare: one Worker, D1 database, R2 storage and cron jobs, no frameworks · [squadjury.com](https://squadjury.com) · [source](https://github.com/grabator/squadjury)
+
+`JavaScript` `HTML` `CSS` `Tesseract.js` `Cloudflare Workers` `D1` `R2`
+
 ### [Glaze Nail Studio](https://beauty-salon.grabafaceit.workers.dev)
 <a href="https://beauty-salon.grabafaceit.workers.dev"><img src="./assets/projects/beauty-salon.jpg" alt="Glaze Nail Studio website" width="100%"></a>
 
