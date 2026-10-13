@@ -61,10 +61,10 @@ Fast, mobile-first work for real places: no heavy frameworks where they are not 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/grabator/svecana-sala"><img src="./assets/projects/svecana-sala.jpg" alt="Wedding venue website" width="100%"></a>
-      <br><strong><a href="https://github.com/grabator/svecana-sala">Svečana sala</a></strong>
+      <a href="https://svecana-sala.grabafaceit.workers.dev/"><img src="./assets/projects/svecana-sala.jpg" alt="Aurora wedding venue website" width="100%"></a>
+      <br><strong><a href="https://svecana-sala.grabafaceit.workers.dev/">Svečana sala Aurora</a></strong>
       <br><sub>Wedding venue demo: availability calendar synced from Google Calendar through a Cloudflare Worker, instant price estimate, viewing booking and a guest page with QR code. 4 languages.</sub>
-      <br><sub><a href="https://github.com/grabator/svecana-sala">source</a></sub>
+      <br><sub><a href="https://svecana-sala.grabafaceit.workers.dev/">live</a> · <a href="https://github.com/grabator/svecana-sala">source</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/grabator/old-bridge-mostar"><img src="./assets/projects/old-bridge-mostar.jpg" alt="Old Bridge Mostar website" width="100%"></a>
