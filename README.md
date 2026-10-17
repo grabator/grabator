@@ -1,116 +1,119 @@
 <p align="center">
-  <img src="./assets/banner-v2.svg" alt="Ahmed Grabus - Software Engineer" width="100%">
+  <img src="./assets/banner-v3.svg" alt="Ahmed Grabus - Software Engineer" width="100%">
 </p>
 
-## About
+<p align="center">
+  <a href="https://graba-portofolio.grabafaceit.workers.dev"><img src="https://img.shields.io/badge/Portfolio-05060f?style=for-the-badge&logo=googlechrome&logoColor=7dffb0" alt="Portfolio"></a>
+  <a href="mailto:grabafaceit@gmail.com"><img src="https://img.shields.io/badge/grabafaceit%40gmail.com-05060f?style=for-the-badge&logo=gmail&logoColor=7dffb0" alt="Email: grabafaceit@gmail.com"></a>
+</p>
 
-Software Engineer at **ZIRA**, based in Bosnia and Herzegovina.
-I build full-stack products end to end - .NET backends, Angular and Next.js frontends, Flutter mobile apps - with a focus on clean architecture, performance and user experience.
-
-**Portfolio:** [graba-portofolio.grabafaceit.workers.dev](https://graba-portofolio.grabafaceit.workers.dev)
+Software Engineer at **ZIRA**, based in Bosnia and Herzegovina. I build full-stack products end to end: .NET backends, Angular and Next.js frontends, Flutter apps, and fast, hand-made websites with no heavy frameworks.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## Featured projects
-
-### [MyShishapedia](https://myshishapedia.com)
-<a href="https://myshishapedia.com"><img src="./assets/projects/myshishapedia.jpg" alt="MyShishapedia, the hookah flavor encyclopedia" width="100%"></a>
-
-The hookah flavor encyclopedia, in English and Bosnian. For every flavor you see what it is actually made of, how strongly you taste each ingredient and which flavors are similar. 87 flavors from 20 brands, mix recipes with bowl layouts, a mixer, a quiz, head to head comparisons, ratings and a personal shelf with recommendations, all built from community feedback. No frameworks: a custom static site generator prerenders 740+ pages, with fuzzy search, shareable story cards and a strict CSP · [myshishapedia.com](https://myshishapedia.com) · [source](https://github.com/grabator/myshishapedia)
-
-`JavaScript` `HTML` `CSS` `Node.js` `SVG` `Cloudflare Pages`
-
-### [SquadJury](https://squadjury.com)
-<a href="https://squadjury.com"><img src="./assets/projects/squadjury.jpg" alt="SquadJury, the FPL jury" width="100%"></a>
-
-Fantasy Premier League managers post their squad with one screenshot and the community rates it from 1 to 10 before the deadline. The squad is read right in the browser (OCR, no typing), jurors judge one squad at a time or in head to head duels with Elo ratings, and after each gameweek the jury's verdict meets the real FPL points. Private leagues with H2H fixtures, scout points for the best predictions, badges, share images and an embed widget for creators. Full stack on Cloudflare: one Worker, D1 database, R2 storage and cron jobs, no frameworks · [squadjury.com](https://squadjury.com) · [source](https://github.com/grabator/squadjury)
-
-`JavaScript` `HTML` `CSS` `Tesseract.js` `Cloudflare Workers` `D1` `R2`
-
-### [Glaze Nail Studio](https://beauty-salon.grabafaceit.workers.dev)
-<a href="https://beauty-salon.grabafaceit.workers.dev"><img src="./assets/projects/beauty-salon.jpg" alt="Glaze Nail Studio website" width="100%"></a>
-
-Website for a nail salon. Visitors try a polish colour, shape, length and style on a realistic hand drawn in SVG, browse a design gallery filtered by style and season, get shade suggestions that match an outfit photo, and send a booking inquiry to Viber or WhatsApp in three steps. Three languages (BS / EN / DE), installable as an app, smooth on low-end phones and accessible · [live](https://beauty-salon.grabafaceit.workers.dev) · [source](https://github.com/grabator/beauty-salon)
-
-`JavaScript` `HTML` `CSS` `SVG` `PWA` `Cloudflare Workers`
-
-### [Portfolio](https://graba-portofolio.grabafaceit.workers.dev)
-<a href="https://graba-portofolio.grabafaceit.workers.dev"><img src="./assets/projects/portfolio.jpg" alt="Graba portfolio" width="100%"></a>
-
-My personal site, built by hand with no frameworks. On desktop, a giraffe made of code characters follows the cursor and turns its head in every direction. On mobile, a classic site with a 3D room. All projects in one place. Bilingual (English / Bosnian), fast and accessible · [live](https://graba-portofolio.grabafaceit.workers.dev) · [source](https://github.com/grabator/graba-portofolio)
-
-`JavaScript` `HTML` `CSS` `Cloudflare Workers`
-
-### Websites and apps for local businesses
-Fast, mobile-first work for real places: no heavy frameworks where they are not needed, several languages, and inquiries that go straight to the owner.
+## Featured
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://planinka.grabafaceit.workers.dev/"><img src="./assets/projects/planinka.jpg" alt="Planinka website" width="100%"></a>
-      <br><strong><a href="https://planinka.grabafaceit.workers.dev/">Planinka</a></strong>
-      <br><sub>Mountain cabin on Vlašić: seasonal prices with a stay calculator, live weather, gallery and booking inquiries. BS · EN · DE.</sub>
-      <br><sub><a href="https://planinka.grabafaceit.workers.dev/">live</a> · <a href="https://github.com/grabator/planinka">source</a></sub>
+      <a href="https://myshishapedia.com"><img src="./assets/projects/myshishapedia.jpg" alt="MyShishapedia" width="100%"></a>
+      <br><strong><a href="https://myshishapedia.com">MyShishapedia</a></strong>
+      <br><sub>Hookah flavour encyclopedia. What each flavour is made of, similar flavours, mix recipes, a mixer and a quiz. 183 flavours from 20 brands, built with a custom static site generator.</sub>
+      <br><sub><a href="https://myshishapedia.com">live</a> · <a href="https://github.com/grabator/myshishapedia">source</a> · <code>JavaScript</code> <code>Cloudflare Pages</code> <code>D1</code></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://rezervacije-production-6f84.up.railway.app/r/exclusive/rezervacije"><img src="./assets/projects/exclusive-lounge.jpg" alt="Exclusive Caffe Lounge reservations" width="100%"></a>
-      <br><strong><a href="https://rezervacije-production-6f84.up.railway.app/r/exclusive/rezervacije">Exclusive Lounge</a></strong>
-      <br><sub>Table booking app for a café lounge: guests pick an event and their exact table on an interactive floor plan. Admin panel, PDF guest list and Telegram alerts. Angular 19 · .NET 10 · SQLite.</sub>
-      <br><sub><a href="https://rezervacije-production-6f84.up.railway.app/r/exclusive/rezervacije">live</a> · <a href="https://github.com/grabator/exclusive-lounge-caffe-rezervacije">source</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://svecana-sala.grabafaceit.workers.dev/"><img src="./assets/projects/svecana-sala.jpg" alt="Aurora wedding venue website" width="100%"></a>
-      <br><strong><a href="https://svecana-sala.grabafaceit.workers.dev/">Svečana sala Aurora</a></strong>
-      <br><sub>Wedding venue demo: availability calendar synced from Google Calendar through a Cloudflare Worker, instant price estimate, viewing booking and a guest page with QR code. 4 languages.</sub>
-      <br><sub><a href="https://svecana-sala.grabafaceit.workers.dev/">live</a> · <a href="https://github.com/grabator/svecana-sala">source</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/grabator/old-bridge-mostar"><img src="./assets/projects/old-bridge-mostar.jpg" alt="Old Bridge Mostar website" width="100%"></a>
-      <br><strong><a href="https://github.com/grabator/old-bridge-mostar">Old Bridge Mostar</a></strong>
-      <br><sub>Cinematic scroll story: layered SVG scenes of the Old Bridge and the Neretva, a diver leaping from the arch and an endless places slider.</sub>
-      <br><sub><a href="https://github.com/grabator/old-bridge-mostar">source</a></sub>
+      <a href="https://squadjury.com"><img src="./assets/projects/squadjury.jpg" alt="SquadJury" width="100%"></a>
+      <br><strong><a href="https://squadjury.com">SquadJury</a></strong>
+      <br><sub>FPL managers post their squad with one screenshot, read by OCR in the browser, and the community rates it before the deadline. Duels with Elo, private leagues, real points after each gameweek.</sub>
+      <br><sub><a href="https://squadjury.com">live</a> · <a href="https://github.com/grabator/squadjury">source</a> · <code>JavaScript</code> <code>Cloudflare Workers</code> <code>D1</code> <code>R2</code></sub>
     </td>
   </tr>
 </table>
 
-`JavaScript` `HTML` `CSS` `SVG` `Angular` `.NET` `Cloudflare Workers`
+## Websites and apps
 
-### [GrabPoints](https://github.com/grabator/IB210176-seminarski-rs2)
-Fantasy Premier League companion with ML-driven recommendations for predicted points, captain picks and transfers. Microservice architecture with a .NET 10 API and a background worker over RabbitMQ, plus a Flutter mobile app and desktop admin.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://beauty-salon.grabafaceit.workers.dev"><img src="./assets/projects/beauty-salon.jpg" alt="Glaze Nail Studio" width="100%"></a>
+      <br><strong><a href="https://beauty-salon.grabafaceit.workers.dev">Glaze Nail Studio</a></strong>
+      <br><sub>Nail salon. Try a polish on a realistic SVG hand and book in three steps.</sub>
+      <br><sub><a href="https://beauty-salon.grabafaceit.workers.dev">live</a> · <a href="https://github.com/grabator/beauty-salon">source</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/grabator/ashiana-cafe"><img src="./assets/projects/ashiana-cafe.jpg" alt="Café Ashiana" width="100%"></a>
+      <br><strong><a href="https://github.com/grabator/ashiana-cafe">Café Ashiana</a></strong>
+      <br><sub>Shisha lounge in Derby. Full menu with search, shisha list, live open status.</sub>
+      <br><sub><a href="https://github.com/grabator/ashiana-cafe">source</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://rezervacije-production-6f84.up.railway.app/r/exclusive/rezervacije"><img src="./assets/projects/exclusive-lounge.jpg" alt="Exclusive Lounge" width="100%"></a>
+      <br><strong><a href="https://rezervacije-production-6f84.up.railway.app/r/exclusive/rezervacije">Exclusive Lounge</a></strong>
+      <br><sub>Pick your exact table on a floor plan. Admin panel and Telegram alerts.</sub>
+      <br><sub><a href="https://rezervacije-production-6f84.up.railway.app/r/exclusive/rezervacije">live</a> · <a href="https://github.com/grabator/exclusive-lounge-caffe-rezervacije">source</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://svecana-sala.grabafaceit.workers.dev"><img src="./assets/projects/svecana-sala.jpg" alt="Svečana sala Aurora" width="100%"></a>
+      <br><strong><a href="https://svecana-sala.grabafaceit.workers.dev">Svečana sala Aurora</a></strong>
+      <br><sub>Wedding venue demo. Dates synced from Google Calendar, price estimate, guest QR.</sub>
+      <br><sub><a href="https://svecana-sala.grabafaceit.workers.dev">live</a> · <a href="https://github.com/grabator/svecana-sala">source</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://planinka.grabafaceit.workers.dev"><img src="./assets/projects/planinka.jpg" alt="Planinka" width="100%"></a>
+      <br><strong><a href="https://planinka.grabafaceit.workers.dev">Planinka</a></strong>
+      <br><sub>Mountain cabin on Vlašić. Seasonal prices, stay calculator, live weather.</sub>
+      <br><sub><a href="https://planinka.grabafaceit.workers.dev">live</a> · <a href="https://github.com/grabator/planinka">source</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://casa-montana.grabafaceit.workers.dev"><img src="./assets/projects/casa-montana.jpg" alt="Casa Montana" width="100%"></a>
+      <br><strong><a href="https://casa-montana.grabafaceit.workers.dev">Casa Montana</a></strong>
+      <br><sub>Mountain apartments on Vlašić. Winter and summer look, gallery, inquiries.</sub>
+      <br><sub><a href="https://casa-montana.grabafaceit.workers.dev">live</a> · <a href="https://github.com/grabator/casa-montana">source</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://harmonija.grabafaceit.workers.dev"><img src="./assets/projects/harmonija.jpg" alt="Harmonija" width="100%"></a>
+      <br><strong><a href="https://harmonija.grabafaceit.workers.dev">Harmonija</a></strong>
+      <br><sub>New site proposal for holiday rooms on Vlašić, with their own photos and video.</sub>
+      <br><sub><a href="https://harmonija.grabafaceit.workers.dev">live</a> · <a href="https://github.com/grabator/harmonija">source</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/grabator/old-bridge-mostar"><img src="./assets/projects/old-bridge-mostar.jpg" alt="Old Bridge Mostar" width="100%"></a>
+      <br><strong><a href="https://github.com/grabator/old-bridge-mostar">Old Bridge Mostar</a></strong>
+      <br><sub>Cinematic scroll story with layered SVG scenes of the Old Bridge.</sub>
+      <br><sub><a href="https://github.com/grabator/old-bridge-mostar">source</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://graba-portofolio.grabafaceit.workers.dev"><img src="./assets/projects/portfolio.jpg" alt="Portfolio" width="100%"></a>
+      <br><strong><a href="https://graba-portofolio.grabafaceit.workers.dev">Portfolio</a></strong>
+      <br><sub>A giraffe made of code follows your cursor. On mobile, a 3D room.</sub>
+      <br><sub><a href="https://graba-portofolio.grabafaceit.workers.dev">live</a> · <a href="https://github.com/grabator/graba-portofolio">source</a></sub>
+    </td>
+  </tr>
+</table>
 
-`.NET 10` `RabbitMQ` `ONNX Runtime` `SQL Server` `Stripe` `Flutter` `Docker`
+## Also building
 
-### [Dežurne apoteke BiH](https://github.com/grabator/dezurne-apoteke)
-Mobile-first web app that shows which pharmacies are on duty right now in Bosnia and Herzegovina - with distance, one-tap calling and directions.
-
-`Next.js 16` `React 19` `PWA`
-
-<img src="./assets/divider.svg" width="100%" alt="">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/grabator/IB210176-seminarski-rs2">GrabPoints</a></strong>
+      <br><sub>FPL companion with ML predictions for points, captains and transfers. .NET 10 API and worker over RabbitMQ, Flutter mobile app and desktop admin.</sub>
+      <br><sub><code>.NET 10</code> <code>RabbitMQ</code> <code>ONNX</code> <code>Flutter</code> <code>Docker</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/grabator/dezurne-apoteke">Dežurne apoteke BiH</a></strong>
+      <br><sub>Which pharmacies are on duty right now in Bosnia and Herzegovina, with distance, one-tap calling and directions.</sub>
+      <br><sub><code>Next.js 16</code> <code>React 19</code> <code>PWA</code></sub>
+    </td>
+  </tr>
+</table>
 
 ## Tech stack
 
-**Backend**
-<br>
-<img src="https://img.shields.io/badge/.NET%20%2F%20C%23-0b0612?style=for-the-badge&logo=dotnet&logoColor=a78bfa" alt=".NET / C#">
-<img src="https://img.shields.io/badge/Java-0b0612?style=for-the-badge&logo=openjdk&logoColor=a78bfa" alt="Java">
-<img src="https://img.shields.io/badge/Spring%20Boot-0b0612?style=for-the-badge&logo=springboot&logoColor=a78bfa" alt="Spring Boot">
-<img src="https://img.shields.io/badge/RabbitMQ-0b0612?style=for-the-badge&logo=rabbitmq&logoColor=a78bfa" alt="RabbitMQ">
-<img src="https://img.shields.io/badge/SQL%20Server-0b0612?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTc4YmZhIiBzdHJva2Utd2lkdGg9IjIiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2MTRjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTJjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtMyIvPjwvc3ZnPg%3D%3D" alt="SQL Server">
-<img src="https://img.shields.io/badge/ONNX-0b0612?style=for-the-badge&logo=onnx&logoColor=a78bfa" alt="ONNX">
-
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/Angular-0b0612?style=for-the-badge&logo=angular&logoColor=a78bfa" alt="Angular">
-<img src="https://img.shields.io/badge/TypeScript-0b0612?style=for-the-badge&logo=typescript&logoColor=a78bfa" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-0b0612?style=for-the-badge&logo=react&logoColor=a78bfa" alt="React">
-<img src="https://img.shields.io/badge/Next.js-0b0612?style=for-the-badge&logo=nextdotjs&logoColor=a78bfa" alt="Next.js">
-<img src="https://img.shields.io/badge/JavaScript-0b0612?style=for-the-badge&logo=javascript&logoColor=a78bfa" alt="JavaScript">
-
-**Mobile & tools**
-<br>
-<img src="https://img.shields.io/badge/Flutter-0b0612?style=for-the-badge&logo=flutter&logoColor=a78bfa" alt="Flutter">
-<img src="https://img.shields.io/badge/Dart-0b0612?style=for-the-badge&logo=dart&logoColor=a78bfa" alt="Dart">
-<img src="https://img.shields.io/badge/Docker-0b0612?style=for-the-badge&logo=docker&logoColor=a78bfa" alt="Docker">
-<img src="https://img.shields.io/badge/Git-0b0612?style=for-the-badge&logo=git&logoColor=a78bfa" alt="Git">
+<p>
+  <img src="https://img.shields.io/badge/.NET%20%2F%20C%23-05060f?style=for-the-badge&logo=dotnet&logoColor=7dffb0" alt=".NET / C#"> <img src="https://img.shields.io/badge/Java-05060f?style=for-the-badge&logo=openjdk&logoColor=7dffb0" alt="Java"> <img src="https://img.shields.io/badge/Spring%20Boot-05060f?style=for-the-badge&logo=springboot&logoColor=7dffb0" alt="Spring Boot"> <img src="https://img.shields.io/badge/RabbitMQ-05060f?style=for-the-badge&logo=rabbitmq&logoColor=7dffb0" alt="RabbitMQ"> <img src="https://img.shields.io/badge/SQL%20Server-05060f?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTc4YmZhIiBzdHJva2Utd2lkdGg9IjIiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2MTRjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTJjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtMyIvPjwvc3ZnPg%3D%3D" alt="SQL Server"> <img src="https://img.shields.io/badge/ONNX-05060f?style=for-the-badge&logo=onnx&logoColor=7dffb0" alt="ONNX"> <img src="https://img.shields.io/badge/Angular-05060f?style=for-the-badge&logo=angular&logoColor=7dffb0" alt="Angular"> <img src="https://img.shields.io/badge/TypeScript-05060f?style=for-the-badge&logo=typescript&logoColor=7dffb0" alt="TypeScript"> <img src="https://img.shields.io/badge/React-05060f?style=for-the-badge&logo=react&logoColor=7dffb0" alt="React"> <img src="https://img.shields.io/badge/Next.js-05060f?style=for-the-badge&logo=nextdotjs&logoColor=7dffb0" alt="Next.js"> <img src="https://img.shields.io/badge/JavaScript-05060f?style=for-the-badge&logo=javascript&logoColor=7dffb0" alt="JavaScript"> <img src="https://img.shields.io/badge/Flutter-05060f?style=for-the-badge&logo=flutter&logoColor=7dffb0" alt="Flutter"> <img src="https://img.shields.io/badge/Dart-05060f?style=for-the-badge&logo=dart&logoColor=7dffb0" alt="Dart"> <img src="https://img.shields.io/badge/Docker-05060f?style=for-the-badge&logo=docker&logoColor=7dffb0" alt="Docker"> <img src="https://img.shields.io/badge/Cloudflare-05060f?style=for-the-badge&logo=cloudflare&logoColor=7dffb0" alt="Cloudflare"> <img src="https://img.shields.io/badge/Git-05060f?style=for-the-badge&logo=git&logoColor=7dffb0" alt="Git">
+</p>
