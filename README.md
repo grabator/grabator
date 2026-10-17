@@ -37,7 +37,7 @@ Website for a nail salon. Visitors try a polish colour, shape, length and style 
 ### [Portfolio](https://graba-portofolio.grabafaceit.workers.dev)
 <a href="https://graba-portofolio.grabafaceit.workers.dev"><img src="./assets/projects/portfolio.jpg" alt="Graba portfolio" width="100%"></a>
 
-My personal site, built by hand with no frameworks. A little robot drawn in pure CSS turns its head in 3D to follow the cursor, blinks, falls asleep when you leave it alone and knows a few tricks when you click it. Bilingual (English / Bosnian), fast and accessible · [live](https://graba-portofolio.grabafaceit.workers.dev) · [source](https://github.com/grabator/graba-portofolio)
+My personal site, built by hand with no frameworks. On desktop, a giraffe made of code characters follows the cursor and turns its head in every direction. On mobile, a classic site with a 3D room. All projects in one place. Bilingual (English / Bosnian), fast and accessible · [live](https://graba-portofolio.grabafaceit.workers.dev) · [source](https://github.com/grabator/graba-portofolio)
 
 `JavaScript` `HTML` `CSS` `Cloudflare Workers`
 
