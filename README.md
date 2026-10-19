@@ -41,10 +41,10 @@ Software Engineer at **ZIRA**, based in Bosnia and Herzegovina. I build full-sta
       <br><sub><a href="https://beauty-salon.grabafaceit.workers.dev">live</a> · <a href="https://github.com/grabator/beauty-salon">source</a></sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/grabator/ashiana-cafe"><img src="./assets/projects/ashiana-cafe.jpg" alt="Café Ashiana" width="100%"></a>
-      <br><strong><a href="https://github.com/grabator/ashiana-cafe">Café Ashiana</a></strong>
+      <a href="https://ashiana-cafe.grabafaceit.workers.dev"><img src="./assets/projects/ashiana-cafe.jpg" alt="Café Ashiana" width="100%"></a>
+      <br><strong><a href="https://ashiana-cafe.grabafaceit.workers.dev">Café Ashiana</a></strong>
       <br><sub>Shisha lounge in Derby. Full menu with search, shisha list, live open status.</sub>
-      <br><sub><a href="https://github.com/grabator/ashiana-cafe">source</a></sub>
+      <br><sub><a href="https://ashiana-cafe.grabafaceit.workers.dev">live</a> · <a href="https://github.com/grabator/ashiana-cafe">source</a></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://rezervacije-production-6f84.up.railway.app/r/exclusive/rezervacije"><img src="./assets/projects/exclusive-lounge.jpg" alt="Exclusive Lounge" width="100%"></a>
