@@ -67,10 +67,10 @@ Software Engineer at **ZIRA**, based in Bosnia and Herzegovina. I build full-sta
       <br><sub><a href="https://planinka.grabafaceit.workers.dev">live</a> · <a href="https://github.com/grabator/planinka">source</a></sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://casa-montana.grabafaceit.workers.dev"><img src="./assets/projects/casa-montana.jpg" alt="Casa Montana" width="100%"></a>
-      <br><strong><a href="https://casa-montana.grabafaceit.workers.dev">Casa Montana</a></strong>
+      <a href="https://casamontanavlasic.com"><img src="./assets/projects/casa-montana.jpg" alt="Casa Montana" width="100%"></a>
+      <br><strong><a href="https://casamontanavlasic.com">Casa Montana</a></strong>
       <br><sub>Mountain apartments on Vlašić. Winter and summer look, gallery, inquiries.</sub>
-      <br><sub><a href="https://casa-montana.grabafaceit.workers.dev">live</a> · <a href="https://github.com/grabator/casa-montana">source</a></sub>
+      <br><sub><a href="https://casamontanavlasic.com">live</a> · <a href="https://github.com/grabator/casa-montana">source</a></sub>
     </td>
   </tr>
   <tr>
