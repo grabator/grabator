@@ -66,10 +66,10 @@ text{font-family:"SM",ui-monospace,Consolas,monospace}
 <g class="caretm"><rect class="caret" x="967.2" y="82" width="10" height="20" fill="#e3101e"/></g>
 </g>
 
-<text x="292.0" y="300" class="nm up" fill="#fff" style="animation-delay:.4s">AHMED</text>
+<text x="287.0" y="300" class="nm up" fill="#fff" style="animation-delay:.4s">AHMED</text>
 <g class="stamp">
-<rect x="771.0" y="155.52" width="537.0" height="178.5" fill="#e3101e"/>
-<text x="797.0" y="304" class="nm" fill="#fff">GRABUS</text>
+<rect x="768.0" y="126.3" width="545.1" height="203.0" fill="#e3101e"/>
+<text x="796.7" y="300" class="nm" fill="#fff">GRABUS</text>
 </g>
 
 <g class="up" style="animation-delay:1.5s"><text x="800" y="372" text-anchor="middle" class="role rot" style="animation-delay:0s"><tspan class="lead">Software Engineer </tspan>at ZIRA.</text><text x="800" y="372" text-anchor="middle" class="role rot" style="animation-delay:4s"><tspan class="lead">Full-stack </tspan>with .NET, Angular, Next.js and Flutter.</text><text x="800" y="372" text-anchor="middle" class="role rot" style="animation-delay:8s"><tspan class="lead">Fast, beautiful websites </tspan>for local businesses.</text><text x="800" y="372" text-anchor="middle" class="role rot" style="animation-delay:12s"><tspan class="lead">From idea </tspan>to product people actually use.</text></g>
