@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-v5.svg" alt="Ahmed Grabus - Software Engineer" width="100%">
+  <img src="./assets/banner-v6.svg" alt="Ahmed Grabus - Software Engineer" width="100%">
 </p>
 
 <p align="center">
