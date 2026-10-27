@@ -30,6 +30,25 @@ Software Engineer at **ZIRA**, based in Bosnia and Herzegovina. I build full-sta
   </tr>
 </table>
 
+## Latest client: M&S Car Wash
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mscarwashdetailing.com"><img src="./assets/projects/ms-car-wash-r.jpg" alt="M&amp;S Car Wash website" width="100%"></a>
+      <br><strong><a href="https://mscarwashdetailing.com">M&amp;S Car Wash &amp; Detailing</a></strong>
+      <br><sub>Hand car wash and detailing in Travnik. Full price list and packages, tap the services you want and send the inquiry to WhatsApp or Viber.</sub>
+      <br><sub><a href="https://mscarwashdetailing.com">live</a> · <a href="https://github.com/grabator/ms-car-wash-and-detailing">source</a> · <code>JavaScript</code> <code>Cloudflare Workers</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://graba-portofolio.grabafaceit.workers.dev/#design"><img src="./assets/projects/ms-car-wash-design-r.jpg" alt="M&amp;S Car Wash print and Instagram design" width="100%"></a>
+      <br><strong><a href="https://graba-portofolio.grabafaceit.workers.dev/#design">Print and Instagram design</a></strong>
+      <br><sub>The whole brand set for the same client: a 72 × 80 cm office board, business cards, a QR sticker, Instagram posts, stories and highlight covers.</sub>
+      <br><sub><a href="https://graba-portofolio.grabafaceit.workers.dev/#design">see on portfolio</a> · <a href="https://github.com/grabator/ms-car-wash-and-detailing/tree/main/stampa">files</a></sub>
+    </td>
+  </tr>
+</table>
+
 ## Websites and apps
 
 <table>
